@@ -1,0 +1,12 @@
+# .dockerignore
+venv/
+env/
+.git
+
+# IDE
+.vscode/
+.idea/
+
+# bd
+.gitignore
+Dockerfile
